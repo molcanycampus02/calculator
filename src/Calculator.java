@@ -10,6 +10,16 @@ public class Calculator {
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
+
+        boolean even = 2 % 2 == 0;
+        System.out.println(even);
+
+        int f = 2+3;
+        int sub = 3-3;
+
+        System.out.println(f);
+        System.out.println(sub);
+
     }
 }
 
